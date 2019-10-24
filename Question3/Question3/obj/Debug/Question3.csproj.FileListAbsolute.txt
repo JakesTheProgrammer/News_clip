@@ -1,0 +1,7 @@
+C:\News_Clip\Question3\Question3\bin\Debug\Question3.exe.config
+C:\News_Clip\Question3\Question3\bin\Debug\Question3.exe
+C:\News_Clip\Question3\Question3\bin\Debug\Question3.pdb
+C:\News_Clip\Question3\Question3\obj\Debug\Question3.csprojAssemblyReference.cache
+C:\News_Clip\Question3\Question3\obj\Debug\Question3.csproj.CoreCompileInputs.cache
+C:\News_Clip\Question3\Question3\obj\Debug\Question3.exe
+C:\News_Clip\Question3\Question3\obj\Debug\Question3.pdb
