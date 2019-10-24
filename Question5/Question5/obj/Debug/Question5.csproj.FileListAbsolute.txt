@@ -1,0 +1,7 @@
+D:\Program_Data\Visual Studio\NewsClip\Question5\Question5\bin\Debug\Question5.exe.config
+D:\Program_Data\Visual Studio\NewsClip\Question5\Question5\bin\Debug\Question5.exe
+D:\Program_Data\Visual Studio\NewsClip\Question5\Question5\bin\Debug\Question5.pdb
+D:\Program_Data\Visual Studio\NewsClip\Question5\Question5\obj\Debug\Question5.csproj.CoreCompileInputs.cache
+D:\Program_Data\Visual Studio\NewsClip\Question5\Question5\obj\Debug\Question5.exe
+D:\Program_Data\Visual Studio\NewsClip\Question5\Question5\obj\Debug\Question5.pdb
+D:\Program_Data\Visual Studio\NewsClip\Question5\Question5\obj\Debug\Question5.csprojAssemblyReference.cache
